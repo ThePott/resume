@@ -5,10 +5,6 @@
 - https://github.com/ThePott
 - https://velog.io/@nusilite/posts
 
-<<<<<<< HEAD
-
-<!--자기 소개-->
-
 ## 일관되고 예측 가능해야 아름답다
 
 푸드 테크는 외식 사업자 뿐 아니라 외식 서비스의 이용자를 돕는 기업입니다. 테이블 키오스크를 제공해 사업자는
